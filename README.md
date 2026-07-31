@@ -4,7 +4,6 @@
 **Institution:** Department of EEE, Bangladesh University of Engineering and Technology (BUET)
 **Section:** C1 | **Group:** 05
 **Full report:** [`EEE306_Project_Report_Group_05.pdf`](EEE306_Project_Report_Group_05.pdf)
-**Demo videos:** [AC](https://youtu.be/Ub8iL2laX48) · [Islanded](https://youtu.be/khQcHFJkYVs) · [DC](https://youtu.be/KE7yp5uuuIQ)
 
 ---
 
